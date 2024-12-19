@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png" group-title="Outdoor",Love Nature
+https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveNature4K.ca" tvg-logo="https://i.imgur.com/JEDlYlh.png" group-title="Outdoor",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="NatureTV.br" tvg-logo="https://i.imgur.com/g7pLORX.png" group-title="Documentary;Science",Nature TV
+https://stmv1.srvif.com/nattv/nattv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVNatureza.br" tvg-logo="https://i.imgur.com/RuyQQ6M.png" group-title="Education",Pluto TV Natureza
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="StingrayNaturescape.ca" tvg-logo="https://i.imgur.com/882kd90.png" group-title="Music",Stingray Naturescape
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/playlist.m3u8
